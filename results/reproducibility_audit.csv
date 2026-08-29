@@ -1,0 +1,4 @@
+analysis,n,phase_mean,phase_sd,aix75_mean,aix75_sd,pearson_r,p_value,slope,r_squared
+Reported dissertation sample,100,6.05,0.98,6.97,11.36,-0.228,0.022,-2.64,0.052
+All complete age 18-30 pairs in supplied master workbook,212,6.0835,0.9723,9.7642,13.5455,-0.2176,0.001436,-3.0308,0.0473
+
