@@ -1,5 +1,7 @@
 # Phase Angle and Arterial Stiffness in Young Adults
 
+**Author:** Noura Lakrimdi
+
 A reproducibility-focused analysis of the relationship between bioelectrical
 impedance phase angle and heart-rate-standardised augmentation index (AIx@75),
 completed in 2025 as a BSc Medical Physiology research project at Middlesex University.
