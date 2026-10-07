@@ -85,3 +85,13 @@ See `data/README.md`.
 
 Noura Lakrimdi — MSc Data Science student with a First-Class BSc in Medical
 Physiology.
+
+## How to cite
+
+If you use this project's code, analysis, figures or findings in your work, please cite:
+
+```text
+Lakrimdi, N. (2025). Phase Angle and Arterial Stiffness in Young Adults [Research project repository]. GitHub. https://github.com/Noural06/phase-angle-arterial-stiffness-analysis
+```
+
+For reproducibility, also record the commit SHA or release used and your access date. Cite any original third-party sources separately.
